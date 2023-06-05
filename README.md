@@ -30,3 +30,13 @@ star ⭐️ the repository, share it with others, and contribute to making this 
 The PSGallery: Curated PowerShell Delights is free scrip collection: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
  
 This collection is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.
+
+**Third-Party Script Sharing and Licensing**
+
+Please note that the scripts provided by third-party sources on this platform are shared by their respective creators and are subject to their own licensing terms. While every effort is made to ensure compliance with licensing requirements, it is important to acknowledge that the licenses for these scripts may not be explicitly displayed but are provided on the respective repositories or sources.
+
+The creators of these scripts hold the rights to determine the specific licensing terms for their work. These licenses govern the permissions and restrictions associated with the usage, modification, and distribution of the scripts. It is advisable to review the licensing information provided by the creators to understand the terms under which the scripts are made available.
+
+We encourage users to respect the licenses associated with third-party scripts and to adhere to any attribution requirements, usage restrictions, or other conditions outlined by the creators. This ensures that the intellectual property rights and contributions of the script authors are acknowledged and preserved.
+
+If you have any concerns or questions regarding the licensing of a specific third-party script, we recommend reaching out to the script's creator or referring to the repository or source from which it was obtained. They will be in the best position to provide you with the necessary information and clarification.
