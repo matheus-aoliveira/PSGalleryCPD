@@ -33,7 +33,7 @@ This collection is distributed in the hope that it will be useful, but WITHOUT A
 
 **Third-Party Script Sharing and Licensing**
 
-Please note that the scripts provided by third-party sources on this platform are shared by their respective creators and are subject to their own licensing terms. While every effort is made to ensure compliance with licensing requirements, it is important to acknowledge that the licenses for these scripts may not be explicitly displayed but are provided on the respective repositories or sources.
+Please note that the scripts provided by third-party sources on this GitHub are shared by their respective creators and are subject to their own licensing terms. While every effort is made to ensure compliance with licensing requirements, it is important to acknowledge that the licenses for these scripts may not be explicitly displayed but are provided on the respective repositories or sources.
 
 The creators of these scripts hold the rights to determine the specific licensing terms for their work. These licenses govern the permissions and restrictions associated with the usage, modification, and distribution of the scripts. It is advisable to review the licensing information provided by the creators to understand the terms under which the scripts are made available.
 
